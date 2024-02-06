@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📊 I'm a software engineer building analytics apps
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: mikelv92@gmail.com
