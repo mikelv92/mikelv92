@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- 📊 I'm a software engineer building analytics apps
+- 📊 I'm a software engineer building real-time analytics and monitoring apps
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: mikelv92@gmail.com
+
+
+## :octocat: **Github Stats**
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelv92&hide=Shell,CMake,Makefile,html,css&theme=tokyonight&hide_langs_below=5&layout=compact&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikelv92&show_icons=true&theme=tokyonight&line_height=27" />
 
 <!--
 **mikelv92/mikelv92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
