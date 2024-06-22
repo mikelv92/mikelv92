@@ -2,7 +2,6 @@
 
 - 📊 I'm a software engineer building real-time analytics and monitoring apps
 - 👯 I’m looking to collaborate on open source projects
-- 🌱 I’m currently learning Go
 - 📫 How to reach me: mikelv92@gmail.com
 
 
